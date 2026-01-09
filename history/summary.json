@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jira.cubrid.org.ico",
     "slug": "cubrid-jira",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.89%",
     "uptimeDay": "96.66%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "98.85%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.89%",
     "time": 1249,
     "timeDay": 1055,
     "timeWeek": 1249,
@@ -60,9 +60,9 @@
     "url": "https://qahome.cubrid.org/",
     "icon": "https://icons.duckduckgo.com/ip3/qahome.cubrid.org.ico",
     "slug": "cubrid-qa-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 1320,
     "timeMonth": 1320,
     "timeYear": 1320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-09": 0
+    }
   },
   {
     "name": "CUBRID DEV",
