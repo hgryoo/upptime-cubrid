@@ -40,9 +40,9 @@
     "url": "http://jira.cubrid.org/",
     "icon": "https://icons.duckduckgo.com/ip3/jira.cubrid.org.ico",
     "slug": "cubrid-jira",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1242,
     "timeMonth": 1242,
     "timeYear": 1242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-09": 0
+    }
   },
   {
     "name": "CUBRID QA Home",
