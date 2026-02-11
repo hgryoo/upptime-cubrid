@@ -40,9 +40,9 @@
     "url": "http://jira.cubrid.org/",
     "icon": "https://icons.duckduckgo.com/ip3/jira.cubrid.org.ico",
     "slug": "cubrid-jira",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -52,6 +52,7 @@
     "timeMonth": 1227,
     "timeYear": 1222,
     "dailyMinutesDown": {
+      "2026-02-11": 0,
       "2026-01-09": 48
     }
   },
@@ -61,11 +62,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qahome.cubrid.org.ico",
     "slug": "cubrid-qa-home",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
-    "uptimeYear": "99.55%",
+    "uptimeYear": "99.56%",
     "time": 1150,
     "timeDay": 1353,
     "timeWeek": 1003,
