@@ -86,18 +86,20 @@
     "url": "https://dev.cubrid.org/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.cubrid.org.ico",
     "slug": "cubrid-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 870,
-    "timeDay": 1030,
-    "timeWeek": 1022,
+    "time": 869,
+    "timeDay": 932,
+    "timeWeek": 998,
     "timeMonth": 826,
-    "timeYear": 870,
-    "dailyMinutesDown": {}
+    "timeYear": 869,
+    "dailyMinutesDown": {
+      "2026-02-24": 0
+    }
   },
   {
     "name": "CUBRID Manual",
