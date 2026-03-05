@@ -4,10 +4,10 @@
     "url": "https://www.cubrid.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cubrid.org.ico",
     "slug": "cubrid-website-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1982,
@@ -15,17 +15,19 @@
     "timeWeek": 1988,
     "timeMonth": 2046,
     "timeYear": 1982,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-05": 1
+    }
   },
   {
     "name": "CUBRID Website COM",
     "url": "https://www.cubrid.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cubrid.com.ico",
     "slug": "cubrid-website-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1627,
@@ -33,7 +35,9 @@
     "timeWeek": 1714,
     "timeMonth": 1640,
     "timeYear": 1627,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-05": 1
+    }
   },
   {
     "name": "CUBRID JIRA",
@@ -106,9 +110,9 @@
     "url": "https://www.cubrid.org/manual/en/11.4/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cubrid.org.ico",
     "slug": "cubrid-manual",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -117,6 +121,8 @@
     "timeWeek": 914,
     "timeMonth": 911,
     "timeYear": 846,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-05": 0
+    }
   }
 ]
