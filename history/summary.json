@@ -4,10 +4,10 @@
     "url": "https://www.cubrid.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cubrid.org.ico",
     "slug": "cubrid-website-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.86%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "98.85%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.87%",
     "time": 1985,
@@ -16,6 +16,7 @@
     "timeMonth": 2094,
     "timeYear": 1985,
     "dailyMinutesDown": {
+      "2026-03-07": 1,
       "2026-03-05": 115
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://www.cubrid.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cubrid.com.ico",
     "slug": "cubrid-website-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.87%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.86%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.87%",
     "time": 1616,
@@ -36,6 +37,7 @@
     "timeMonth": 1625,
     "timeYear": 1616,
     "dailyMinutesDown": {
+      "2026-03-07": 1,
       "2026-03-05": 114
     }
   },
@@ -92,12 +94,12 @@
     "slug": "cubrid-dev",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.67%",
+    "uptimeDay": "98.93%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.92%",
     "time": 849,
-    "timeDay": 643,
+    "timeDay": 683,
     "timeWeek": 755,
     "timeMonth": 873,
     "timeYear": 849,
@@ -111,7 +113,7 @@
     "url": "https://www.cubrid.org/manual/en/11.4/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cubrid.org.ico",
     "slug": "cubrid-manual",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.87%",
@@ -123,6 +125,7 @@
     "timeMonth": 882,
     "timeYear": 840,
     "dailyMinutesDown": {
+      "2026-03-07": 0,
       "2026-03-05": 114
     }
   }
