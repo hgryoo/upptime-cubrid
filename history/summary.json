@@ -45,17 +45,17 @@
     "url": "https://www.cubrid.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cubrid.com.ico",
     "slug": "cubrid-website-com",
-    "status": "up",
+    "status": "down",
     "uptime": "97.29%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.29%",
-    "time": 2822,
-    "timeDay": 2826,
-    "timeWeek": 1928,
-    "timeMonth": 1957,
-    "timeYear": 2822,
+    "time": 2896,
+    "timeDay": 12543,
+    "timeWeek": 4469,
+    "timeMonth": 2591,
+    "timeYear": 2896,
     "dailyMinutesDown": {
       "2026-03-05": 114,
       "2026-03-07": 134,
@@ -80,7 +80,8 @@
       "2026-07-06": 360,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
-      "2026-07-03": 521
+      "2026-07-03": 521,
+      "2026-08-20": 0
     }
   },
   {
