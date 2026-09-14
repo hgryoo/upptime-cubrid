@@ -111,17 +111,17 @@
     "url": "https://qahome.cubrid.org/",
     "icon": "https://icons.duckduckgo.com/ip3/qahome.cubrid.org.ico",
     "slug": "cubrid-qa-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.90%",
-    "time": 1166,
-    "timeDay": 1353,
-    "timeWeek": 1507,
-    "timeMonth": 1368,
-    "timeYear": 1166,
+    "time": 1176,
+    "timeDay": 2536,
+    "timeWeek": 1783,
+    "timeMonth": 1437,
+    "timeYear": 1176,
     "dailyMinutesDown": {
       "2026-01-09": 28,
       "2026-01-15": 42,
@@ -130,7 +130,8 @@
       "2026-01-29": 26,
       "2026-01-30": 60,
       "2026-05-18": 28,
-      "2026-08-21": 83
+      "2026-08-21": 83,
+      "2026-09-14": 0
     }
   },
   {
